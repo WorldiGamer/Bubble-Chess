@@ -1,0 +1,58 @@
+Privacy Policy
+Effective Date: 24.12.2025 Developer: Tomasz Rutkowski ("we," "us," or "our") App Name: Bubble Chess
+
+1. Introduction
+We respect your privacy. This Privacy Policy explains how Bubble Chess (the "App") collects, uses, and safeguards information. By using the App, you agree to the terms of this policy.
+
+2. Data Collection and Processing
+The App operates on a "Local-First" architecture.
+
+A. Personal Data
+The App fetches public chess game data (PGN files) which may include:
+
+Usernames (e.g., from Lichess.org or Chess.com).
+
+Game moves and timestamps.
+
+Chat logs if included in the PGN source.
+
+We do not collect, transmit, or store this data on our own servers. All data fetching is performed directly from your device to the third-party providers. The data resides solely in your device's local memory or storage.
+
+B. Device Permissions
+To function, the App requires the following permissions:
+
+Internet Access: To connect specifically to Chess.com and Lichess.org APIs.
+
+Storage (Read/Write): To save and retrieve PGN files on your device (if applicable based on Android version).
+
+3. Third-Party Services and APIs
+The App acts as a client interface for third-party services. When you use the "Import" feature, your device connects directly to:
+
+Chess.com: Subject to their Privacy Policy.
+
+Lichess.org: Subject to their Privacy Policy.
+
+We do not act as a middleman for these connections. Your IP address and request headers (including the App's User-Agent) are visible to these services during the connection.
+
+4. Children’s Privacy (COPPA Compliance)
+The App is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information (e.g., via a support email), please contact us, and we will delete such information.
+
+5. Your Rights (CCPA & GDPR)
+Since we do not store your data on our servers:
+
+Access & Portability: You already possess your data; it is on your device.
+
+Deletion: You can "delete" your data by clearing the App's cache/data in Android Settings or by uninstalling the App.
+
+Do Not Sell: We do not sell your personal data to third parties.
+
+6. Data Security
+We implement reasonable security measures to protect the integrity of the App. However, because the data is stored locally on your device, you are responsible for securing your phone (e.g., using a passcode, keeping the OS updated). We cannot protect data if your device is compromised by malware or physical theft.
+
+7. Changes to This Policy
+We may update this Privacy Policy to reflect changes in our practices or legal requirements. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the "Effective Date."
+
+8. Contact Us
+If you have questions about this Privacy Policy, please contact us at:
+
+Email: wottomekr@gmail.com
