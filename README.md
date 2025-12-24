@@ -6,7 +6,7 @@ Ten projekt wykorzystuje ikony pobrane z serwisu [Flaticon](https://www.flaticon
 
 | Ikona | Opis / Funkcja | Autor | Link |
 | :---: | :--- | :--- | :--- |
-| <img src="https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/560/560525.png" width="30"> | **Reload / Retry** | [Freepik](https://www.flaticon.com/authors/freepik) | [Link](https://www.flaticon.com/free-icon/reload_560525) |
+| 🔄 | **Reload / Retry** | [Freepik](https://www.flaticon.com/authors/freepik) | [Link](https://www.flaticon.com/free-icon/reload_560525) |
 | ⚡ | **Power (Bolt)** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/power_14025474) |
 | 🔋 | **Power (Flash)** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/power_14025449) |
 | 🔁 | **Refresh / Repeat** | [Bagus mulyadi](https://www.flaticon.com/authors/bagus-mulyadi) | [Link](https://www.flaticon.com/free-icon/refresh_8861013) |
