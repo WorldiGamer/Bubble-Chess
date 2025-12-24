@@ -14,7 +14,7 @@ Ten projekt wykorzystuje ikony pobrane z serwisu [Flaticon](https://www.flaticon
 | ↔️ | **Diagonal Arrows** | [Bagus mulyadi](https://www.flaticon.com/authors/bagus-mulyadi) | [Link](https://www.flaticon.com/free-icon/diagonal_12144368) |
 | 🚪 | **Logout / Exit** | [Gis_on](https://www.flaticon.com/authors/gis-on) | [Link](https://www.flaticon.com/free-icon/logout_4043198) |
 | ↗️ | **Direction** | [Gis_on](https://www.flaticon.com/authors/gis-on) | [Link](https://www.flaticon.com/free-icon/direction_3446185) |
-| 🏎️ | **Car / Quick** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/car_14230014) |
+| ⚡  | **Car / Quick** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/car_14230014) |
 | ℹ️ | **Info** | [Freepik](https://www.flaticon.com/authors/freepik) | [Link](https://www.flaticon.com/free-icon/info_471662) |
 
 ## Licencja
