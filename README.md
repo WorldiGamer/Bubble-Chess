@@ -1,10 +1,10 @@
-# Wykorzystane Zasoby (Icons)
+# Used Resources (Icons)
 
-Ten projekt wykorzystuje ikony pobrane z serwisu [Flaticon](https://www.flaticon.com/). Poniżej znajduje się lista ikon wraz z informacją o ich autorach, zgodnie z wymogami licencji darmowej.
+This project uses icons downloaded from [Flaticon](https://www.flaticon.com/). Below is a list of icons along with information about their authors, in accordance with the requirements of the free license.
 
 ## Lista ikon
 
-| Ikona | Opis / Funkcja | Autor | Link |
+| Icon | Description | Autor | Link |
 | :---: | :--- | :--- | :--- |
 | 🔄 | **Reload / Retry** | [Freepik](https://www.flaticon.com/authors/freepik) | [Link](https://www.flaticon.com/free-icon/reload_560525) |
 | ⚡ | **Power (Bolt)** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/power_14025474) |
@@ -17,6 +17,6 @@ Ten projekt wykorzystuje ikony pobrane z serwisu [Flaticon](https://www.flaticon
 | ⚡  | **Quick** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/car_14230014) |
 | ℹ️ | **Info** | [Freepik](https://www.flaticon.com/authors/freepik) | [Link](https://www.flaticon.com/free-icon/info_471662) |
 
-## Licencja
+## License
 
-Ikony zostały użyte na zasadach darmowej licencji Flaticon, która pozwala na wykorzystanie ich w projektach osobistych i komercyjnych pod warunkiem wskazania autora.
+The icons were used under the terms of the free Flaticon license, which allows them to be used in personal and commercial projects provided the author is credited.
