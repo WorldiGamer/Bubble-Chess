@@ -1,1 +1,22 @@
-Here is the translated version of the README in English:Resources Used (Icons)This project uses icons from Flaticon. Below is a summary of all resources along with the required author attribution.PreviewDescription / FunctionAuthorSource Link<img src="https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/560/560525.png" width="30">Reload / RetryFreepikOpen<img src="https://cdn-icons-png.flaticon.com/512/14025/14025474.png" width="30">Power (Bolt)NadiinkoOpen<img src="https://cdn-icons-png.flaticon.com/512/14025/14025449.png" width="30">Power (Flash)NadiinkoOpen<img src="https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/8861/8861013.png" width="30">Refresh / RepeatBagus mulyadiOpen<img src="https://cdn-icons-png.flaticon.com/512/1082/1082339.png" width="30">Shuffle / ChangeDave GandyOpen<img src="https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/12144/12144368.png" width="30">Diagonal ArrowsBagus mulyadiOpen<img src="https://cdn-icons-png.flaticon.com/512/4043/4043198.png" width="30">Logout / ExitGis_onOpen<img src="https://cdn-icons-png.flaticon.com/512/3446/3446185.png" width="30">DirectionGis_onOpen<img src="https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/14230/14230014.png" width="30">Car / Quick ActionNadiinkoOpen<img src="https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/471/471662.png" width="30">Info / AboutFreepikOpenLicenseAll icons listed above are provided under the Flaticon Free License. Use of these icons in a project requires attribution, which is provided by this table.
+# Wykorzystane Zasoby (Icons)
+
+Ten projekt wykorzystuje ikony pobrane z serwisu [Flaticon](https://www.flaticon.com/). Poniżej znajduje się lista ikon wraz z informacją o ich autorach, zgodnie z wymogami licencji darmowej.
+
+## Lista ikon
+
+| Ikona | Opis / Funkcja | Autor | Link |
+| :---: | :--- | :--- | :--- |
+| <img src="https://www.google.com/search?q=https://cdn-icons-png.flaticon.com/512/560/560525.png" width="30"> | **Reload / Retry** | [Freepik](https://www.flaticon.com/authors/freepik) | [Link](https://www.flaticon.com/free-icon/reload_560525) |
+| ⚡ | **Power (Bolt)** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/power_14025474) |
+| 🔋 | **Power (Flash)** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/power_14025449) |
+| 🔁 | **Refresh / Repeat** | [Bagus mulyadi](https://www.flaticon.com/authors/bagus-mulyadi) | [Link](https://www.flaticon.com/free-icon/refresh_8861013) |
+| 🔀 | **Shuffle / Change** | [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) | [Link](https://www.flaticon.com/free-icon/shuffle_1082339) |
+| ↔️ | **Diagonal Arrows** | [Bagus mulyadi](https://www.flaticon.com/authors/bagus-mulyadi) | [Link](https://www.flaticon.com/free-icon/diagonal_12144368) |
+| 🚪 | **Logout / Exit** | [Gis_on](https://www.flaticon.com/authors/gis-on) | [Link](https://www.flaticon.com/free-icon/logout_4043198) |
+| ↗️ | **Direction** | [Gis_on](https://www.flaticon.com/authors/gis-on) | [Link](https://www.flaticon.com/free-icon/direction_3446185) |
+| 🏎️ | **Car / Quick** | [Nadiinko](https://www.flaticon.com/authors/nadiinko) | [Link](https://www.flaticon.com/free-icon/car_14230014) |
+| ℹ️ | **Info** | [Freepik](https://www.flaticon.com/authors/freepik) | [Link](https://www.flaticon.com/free-icon/info_471662) |
+
+## Licencja
+
+Ikony zostały użyte na zasadach darmowej licencji Flaticon, która pozwala na wykorzystanie ich w projektach osobistych i komercyjnych pod warunkiem wskazania autora.
