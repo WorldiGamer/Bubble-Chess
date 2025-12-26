@@ -19,4 +19,4 @@ This project uses icons downloaded from [Flaticon](https://www.flaticon.com/). B
 
 ## License
 
-The icons were used under the terms of the free Flaticon license, which allows them to be used in personal and commercial projects provided the author is credited.
+The icons were used under the terms of the free Flaticon license, which allows them to be used in personal and commercial projects when the author is credited.
