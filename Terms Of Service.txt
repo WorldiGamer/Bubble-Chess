@@ -61,8 +61,14 @@ These Terms shall be governed by and construed in accordance with the laws of Po
 11. Termination
 We may terminate your license to use the App at any time without notice if you fail to comply with these Terms. Upon termination, you must cease all use of the App and delete all copies from your device.
 
-12. Contact Us
+12. Updates & Changes
+The Developer reserves the right to modify, suspend, or discontinue any part of the App at any time. 
+We may also impose limits on certain features or restrict your access to parts of the App without notice or liability.
+The support of future updates of the app, heavily depends on your device compatibility.
+
+13. Contact Us
 If you have questions about this Terms of Service, please contact us at:
 
 
 Email: wottomekr@gmail.com
+
