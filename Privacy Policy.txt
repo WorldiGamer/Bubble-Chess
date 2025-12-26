@@ -14,8 +14,6 @@ Usernames (e.g., from Lichess.org or Chess.com).
 
 Game moves and timestamps.
 
-Chat logs if included in the PGN source.
-
 We do not collect, transmit, or store this data on our own servers. All data fetching is performed directly from your device to the third-party providers. The data resides solely in your device's local memory or storage.
 
 B. Device Permissions
@@ -35,7 +33,7 @@ Lichess.org: Subject to their Privacy Policy.
 We do not act as a middleman for these connections. Your IP address and request headers (including the App's User-Agent) are visible to these services during the connection.
 
 4. Children’s Privacy (COPPA Compliance)
-The App is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information (e.g., via a support email), please contact us, and we will delete such information.
+The App is suitable for users of all ages. Because the App operates on a 'Local-First' architecture and does not collect, store, or transmit personal data to our servers, it is compliant with child privacy protection standards (including COPPA and GDPR). We do not collect any personal information from children."
 
 5. Your Rights (CCPA & GDPR)
 Since we do not store your data on our servers:
@@ -54,5 +52,6 @@ We may update this Privacy Policy to reflect changes in our practices or legal r
 
 8. Contact Us
 If you have questions about this Privacy Policy, please contact us at:
+
 
 Email: wottomekr@gmail.com
