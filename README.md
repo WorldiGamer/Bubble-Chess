@@ -2,7 +2,7 @@
 
 This project uses icons downloaded from [Flaticon](https://www.flaticon.com/). Below is a list of icons along with information about their authors, in accordance with the requirements of the free license.
 
-## Lista ikon
+## Icon List
 
 | Icon | Description | Autor | Link |
 | :---: | :--- | :--- | :--- |
