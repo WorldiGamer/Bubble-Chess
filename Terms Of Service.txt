@@ -7,7 +7,7 @@ PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APP.
 By downloading, installing, or using Bubble Chess ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 2. Grant of License
-Tomasz Rutkowski grants you a personal, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial use, subject to these Terms.
+Tomasz Rutkowski grants you a personal, non-exclusive, non-transferable license to use the App for personal use. Commercial redistribution or sale of the App’s data is prohibited, however, the use of the App for video content creation (e.g., YouTube, Twitch) is permitted.
 
 3. Payments
 By downloading and using the App, you expressly consent to the immediate performance of the contract and acknowledge that you lose your right of withdrawal from the purchase under EU consumer protection laws.
@@ -58,3 +58,4 @@ If you have questions about this Terms of Service, please contact us at:
 
 
 Email: wottomekr@gmail.com
+
