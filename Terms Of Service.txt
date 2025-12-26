@@ -9,6 +9,9 @@ By downloading, installing, or using Bubble Chess ("the App"), you agree to be b
 2. Grant of License
 Tomasz Rutkowski grants you a personal, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial use, subject to these Terms.
 
+3. Payments
+By downloading and using the App, you expressly consent to the immediate performance of the contract and acknowledge that you lose your right of withdrawal from the purchase under EU consumer protection laws.
+
 3. User Conduct and API Usage
 You acknowledge that the App interacts with third-party APIs (Chess.com and Lichess.org). You agree to:
 
@@ -52,5 +55,6 @@ We may terminate your license to use the App at any time without notice if you f
 
 10. Contact Us
 If you have questions about this Terms of Service, please contact us at:
+
 
 Email: wottomekr@gmail.com
