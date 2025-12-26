@@ -12,7 +12,7 @@ Tomasz Rutkowski grants you a personal, non-exclusive, non-transferable license 
 3. Payments
 By downloading and using the App, you expressly consent to the immediate performance of the contract and acknowledge that you lose your right of withdrawal from the purchase under EU consumer protection laws.
 
-3. User Conduct and API Usage
+4. User Conduct and API Usage
 You acknowledge that the App interacts with third-party APIs (Chess.com and Lichess.org). You agree to:
 
 Not use the App to harass, abuse, or spam these third-party services.
@@ -23,14 +23,22 @@ Comply with the Terms of Service of Chess.com and Lichess.org when accessing the
 
 Not circumvent any rate limits or restrictions imposed by the App or third-party providers.
 
-4. Disclaimer of Warranties
+5. Service Availability and API Changes
+
+The App’s functionality is strictly dependent on the availability of third-party APIs (Chess.com/Lichess). You acknowledge that:
+
+If a third-party provider changes its API, restricts access, or ceases operations, certain features of the App may become unavailable.
+
+The Developer is not liable for such disruptions and is not obligated to provide a refund in such events.
+
+6. Disclaimer of Warranties
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.
 
 WE HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE APP, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
 
 WE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE APP WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE APP WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE APP WILL BE CORRECTED.
 
-5. Limitation of Liability
+7. Limitation of Liability
 TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE APP.
 
 SPECIFIC SECURITY DISCLAIMER: You acknowledge that you are responsible for the security of your own device. The Developer shall not be liable for any unauthorized access to your data, data corruption, or damage to your device resulting from:
@@ -41,21 +49,20 @@ Modifications to your device's operating system (e.g., "rooting" or "jailbreakin
 
 Third-party interception of data transmitted over unsecured networks (e.g., public Wi-Fi).
 
-6. Third-Party Content
+8. Third-Party Content
 The App may display content (chess games, usernames) from third-party sources. We do not control, endorse, or assume responsibility for any such content. We are not responsible if third-party APIs (Chess.com/Lichess) discontinue their service, change their data format, or block the App.
 
-7. Indemnification
+9. Indemnification
 You agree to indemnify, defend, and hold harmless the Developer and its affiliates from any claims, losses, damages, liabilities, including legal fees, arising out of your use or misuse of the App, your violation of these Terms, or your violation of any rights of a third party.
 
-8. Governing Law and Jurisdiction
+10. Governing Law and Jurisdiction
 These Terms shall be governed by and construed in accordance with the laws of Poland, excluding its conflicts of law rules. Any dispute arising out of or relating to these Terms shall be subject to the exclusive jurisdiction of the courts located in Warsaw, Poland.
 
-9. Termination
+11. Termination
 We may terminate your license to use the App at any time without notice if you fail to comply with these Terms. Upon termination, you must cease all use of the App and delete all copies from your device.
 
-10. Contact Us
+12. Contact Us
 If you have questions about this Terms of Service, please contact us at:
 
 
 Email: wottomekr@gmail.com
-
