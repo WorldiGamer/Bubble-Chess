@@ -56,7 +56,7 @@ Because the data is stored locally, the security of your data depends on the sec
 * Avoiding the use of the App on compromised ("rooted") devices.
 
 ### 7. Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official store page and updating the "Effective Date."
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official page and updating the "Effective Date."
 
 ### 9. Contact Us
 For any privacy-related questions or to exercise your data rights, please contact the Data Controller:
