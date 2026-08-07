@@ -1,5 +1,5 @@
 # Privacy Policy
-**Effective Date:** 30.04.2026  
+**Effective Date:** 07.08.2026  
 **Data Controller:** Tomasz Rutkowski  
 **App Name:** Chess M8  
 
@@ -43,22 +43,19 @@ The App acts as a client interface. When you use the "Import" feature, your devi
 
 We do not act as a middleman. Your request headers (including the App's User-Agent) are visible to these services during the connection.
 
-### 5. Children’s Privacy
-The App is suitable for users of all ages. Because we do not collect, store, or transmit personal data to our servers, the App is designed to be compliant with child privacy protection standards, including **COPPA** and **GDPR**.
-
-### 6. Your Rights (GDPR & CCPA)
+### 5. Your Rights (GDPR & CCPA)
 Since we do not store your data on our servers, you have total control:
 * **Access & Portability:** Your data is already on your device.
 * **Deletion:** You can delete all data by clearing the App's cache/data in Android Settings or by uninstalling the App.
 * **Right to Object:** You can stop all data processing by simply stopping the use of the App.
 
-### 7. Data Security
+### 6. Data Security
 Because the data is stored locally, the security of your data depends on the security of your device. We recommend:
 * Using a device passcode or biometric lock.
 * Keeping your Operating System updated.
 * Avoiding the use of the App on compromised ("rooted") devices.
 
-### 8. Changes to This Policy
+### 7. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official store page and updating the "Effective Date."
 
 ### 9. Contact Us
