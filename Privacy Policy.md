@@ -36,7 +36,7 @@ If you are located in the European Economic Area (EEA), we process personal data
 * **Local storage for offline use:** Saving PGN files on your device so you can access your data without an active internet connection.
     * *Legal Basis:* **Article 6(1)(b) of the GDPR**.
  
-    * Notice to Residents of Brazil (LGPD)
+* Notice to Residents of Brazil (LGPD):
     * If you are located in Brazil, your personal data is processed in accordance with the Lei Geral de Proteção de Dados (LGPD). The legal bases for our processing activities correspond to the GDPR framework as follows:
 
     * Providing the service, game analysis, and local storage are processed under Article 7(V) of the LGPD (necessary for the execution of a contract).
