@@ -92,14 +92,21 @@ we do not collect or store personal information on our own servers,
 there is no mechanism by which your data could be sold or shared by us.
 
 California residents may still exercise their rights under the CCPA/CPRA 
-by contacting us at [email], although given our local-first, 
+by contacting us, although given our local-first, 
 no-collection architecture, most such requests will result in confirmation 
 that we hold no personal data about you.
 
 ### 11. Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official page and updating the "Effective Date."
+*We may update this Privacy Policy periodically to reflect changes in our practices or relevant laws. 
+*We will notify you of any changes by posting the new Privacy Policy within the App or on our official page and updating the "Effective Date" at the top of this document.
 
-### 12. Contact Us
+*If we make material changes to the way we process your data (e.g., moving away from a local-first architecture), we will provide a more prominent notice, such as an in-app notification, before the changes take effect. *Your continued use of the App after the effective date confirms your acceptance of the updated Policy.
+
+### 12. Governing Law and Dispute Resolution
+*This Privacy Policy and any disputes arising out of or in connection with it shall be governed by and construed in accordance with the laws of Poland, without regard to its conflict of law provisions. 
+*Any legal action or proceeding arising under this Policy will be brought exclusively in the competent courts located in Poland.
+
+### 13. Contact Us
 For any privacy-related questions or to exercise your data rights, please contact the Data Controller:
 
 **Email:** [wottomekr@gmail.com]
