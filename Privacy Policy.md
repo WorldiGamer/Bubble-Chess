@@ -43,7 +43,7 @@ The App acts as a client interface. When you use the "Import" feature, your devi
 
 We do not act as a middleman. Your request headers (including the App's User-Agent) are visible to these services during the connection.
 
-### 5. Your Rights (GDPR & CCPA)
+### 5. Your Rights (GDPR)
 Since we do not store your data on our servers, you have total control:
 * **Access & Portability:** Your data is already on your device.
 * **Deletion:** You can delete all data by clearing the App's cache/data in Android Settings or by uninstalling the App.
@@ -85,10 +85,21 @@ We do not track your usage behavior, and no data about your interaction
 with the App is transmitted to us or to any third party other than 
 Chess.com or Lichess.org, and only when you explicitly initiate an import.
 
-### 8. Changes to This Policy
+### 10. California Privacy Rights (CCPA/CPRA)
+We do not sell or share your personal information, and we have not sold 
+or shared any personal information in the preceding 12 months. Because 
+we do not collect or store personal information on our own servers, 
+there is no mechanism by which your data could be sold or shared by us.
+
+California residents may still exercise their rights under the CCPA/CPRA 
+by contacting us at [email], although given our local-first, 
+no-collection architecture, most such requests will result in confirmation 
+that we hold no personal data about you.
+
+### 11. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official page and updating the "Effective Date."
 
-### 9. Contact Us
+### 12. Contact Us
 For any privacy-related questions or to exercise your data rights, please contact the Data Controller:
 
 **Email:** [wottomekr@gmail.com]
