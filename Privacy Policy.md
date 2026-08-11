@@ -1,7 +1,6 @@
 # Privacy Policy
 **Effective Date:** 07.08.2026  
 **Data Controller:** Tomasz Rutkowski, an individual based in Poland, operating the App "Chess M8" as an independent developer.
-*Full postal address and additional identification details are available upon written request in accordance with Article 13 GDPR.
 **App Name:** Chess M8  
 
 ---
@@ -62,6 +61,30 @@ Because the data is stored locally, the security of your data depends on the sec
 * Because the App connects directly to Chess.com and Lichess.org, use of those services is also subject to their own age requirements (e.g., Chess.com requires users to be at least 13 years old).
 * Parents or guardians who believe a child has used the App to access third-party services should contact Chess.com or Lichess.org directly to manage that account.
 
+### 8. International Data Transfers
+When you use the Chess.com import feature, your device connects directly 
+to Chess.com's servers, which may be located in the United States. This 
+means your chess username and connection data (including your IP address, 
+visible to Chess.com) may be transferred outside the European Economic 
+Area (EEA).
+
+We do not control this transfer, as it occurs directly between your 
+device and Chess.com's infrastructure, and is governed by Chess.com's own 
+Privacy Policy and its safeguards for international data transfers 
+(e.g., Standard Contractual Clauses, where applicable).
+
+Lichess.org's infrastructure is based within the EU, so no transfer 
+outside the EEA occurs when using the Lichess import feature.
+
+If you have concerns about this transfer, you may choose not to use the 
+Chess.com import feature.
+
+### 9. Analytics and Third-Party SDKs
+The App does not use any analytics, advertising, or crash-reporting SDKs. 
+We do not track your usage behavior, and no data about your interaction 
+with the App is transmitted to us or to any third party other than 
+Chess.com or Lichess.org, and only when you explicitly initiate an import.
+
 ### 8. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official page and updating the "Effective Date."
 
@@ -69,3 +92,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 For any privacy-related questions or to exercise your data rights, please contact the Data Controller:
 
 **Email:** [wottomekr@gmail.com]
+*Full postal address and additional identification details are available upon written request in accordance with Article 13 GDPR.
