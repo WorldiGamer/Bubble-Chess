@@ -55,7 +55,13 @@ Because the data is stored locally, the security of your data depends on the sec
 * Keeping your Operating System updated.
 * Avoiding the use of the App on compromised ("rooted") devices.
 
-### 7. Changes to This Policy
+### 7. Children's Privacy
+* The App is not directed to children and is not intended for use by individuals under the age of 16 (or the minimum age required by local law in your country, if lower — but not below 13 in any case). 
+* We do not knowingly enable children under this age to use the App's import features.
+* Because the App connects directly to Chess.com and Lichess.org, use of those services is also subject to their own age requirements (e.g., Chess.com requires users to be at least 13 years old).
+* Parents or guardians who believe a child has used the App to access third-party services should contact Chess.com or Lichess.org directly to manage that account.
+
+### 8. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official page and updating the "Effective Date."
 
 ### 9. Contact Us
