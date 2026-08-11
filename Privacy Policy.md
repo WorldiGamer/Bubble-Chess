@@ -35,6 +35,15 @@ If you are located in the European Economic Area (EEA), we process personal data
     * *Legal Basis:* **Article 6(1)(f) of the GDPR** (legitimate interest in ensuring the App's proper functionality and security).
 * **Local storage for offline use:** Saving PGN files on your device so you can access your data without an active internet connection.
     * *Legal Basis:* **Article 6(1)(b) of the GDPR**.
+ 
+    * Notice to Residents of Brazil (LGPD)
+    * If you are located in Brazil, your personal data is processed in accordance with the Lei Geral de Proteção de Dados (LGPD). The legal bases for our processing activities correspond to the GDPR framework as follows:
+
+    * Providing the service, game analysis, and local storage are processed under Article 7(V) of the LGPD (necessary for the execution of a contract).
+
+    * Ensuring technical functionality and communicating with external APIs are processed under Article 7(IX) of the LGPD (legitimate interests).
+
+    * You have the right to access, delete, and request information about public and private entities with which we have shared data (e.g., Chess.com), which can be exercised by managing your local device data and             contacting us at the email provided below.
 
 ### 4. Third-Party Services
 The App acts as a client interface. When you use the "Import" feature, your device connects directly to:
