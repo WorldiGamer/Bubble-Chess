@@ -16,7 +16,7 @@ The App fetches public chess game data (PGN files) from third-party services, wh
 * Usernames (e.g., from Lichess.org or Chess.com).
 * Game moves, timestamps, and ratings.
 
-**We do not collect, transmit, or store this data on our own servers.** All data fetching is performed directly from your device to the third-party providers. The data resides solely in your device's local memory or storage.
+**we do not store personal data on our own servers; data is transmitted directly from your device to third-party APIs at your request.**
 
 #### B. Technical Data
 * **IP Address:** When the App connects to third-party APIs, your IP address is visible to those providers (Chess.com/Lichess), but it is never sent to us or stored by us.
