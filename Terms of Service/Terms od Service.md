@@ -39,12 +39,20 @@ The App relies strictly on third-party APIs (Chess.com and Lichess.org) to fetch
 
 ---
 
-### 6. Privacy
+### 6. Purchases, Billing, and Refunds
+The App is provided as a paid application available for purchase through third-party storefronts (e.g., Google Play Store, Apple App Store). 
+
+* **Payment Processing:** All payments, billing, and financial transactions are handled securely and entirely by the respective storefront provider. The Developer does not collect, process, or store any of your credit card or payment information.
+* **Refunds:** Any requests for refunds, cancellations, or billing inquiries must be directed to the customer support of the storefront where the purchase was made, and are strictly subject to that storefront's refund policies. The Developer cannot manually process or issue refunds directly.
+
+---
+
+### 7. Privacy
 Your privacy is important to us. The processing of any personal or technical data associated with your use of the App is governed by our **Privacy Policy**, which is incorporated into these Terms by reference.
 
 ---
 
-### 7. Disclaimer of Warranties
+### 8. Disclaimer of Warranties
 **TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.**
 
 THE DEVELOPER HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE APP, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. 
@@ -53,41 +61,41 @@ THE DEVELOPER HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE
 
 ---
 
-### 8. Limitation of Liability
+### 9. Limitation of Liability
 TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE APP.
 
 **DEVICE SECURITY DISCLAIMER:** You acknowledge that because the App stores data locally on your device, you are solely responsible for maintaining the physical and logical security of your device. The Developer shall not be liable for any unauthorized access to your local data, data corruption, or device damage resulting from malware, unauthorized system modifications ("rooting" or "jailbreaking"), or network interception over unsecured public connections.
 
 ---
 
-### 9. Third-Party Content
+### 10. Third-Party Content
 The App displays content (e.g., public chess games, usernames, ratings) provided directly by third-party sources (Chess.com and Lichess.org). The Developer does not control, endorse, or assume responsibility for the accuracy or availability of any third-party content.
 
 ---
 
-### 10. Indemnification
+### 11. Indemnification
 You agree to indemnify, defend, and hold harmless the Developer from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in any way connected with your misuse of the App, your violation of these Terms, or your violation of any third-party rights (including Chess.com or Lichess.org API terms).
 
 ---
 
-### 11. Governing Law and Jurisdiction
+### 12. Governing Law and Jurisdiction
 These Terms shall be governed by and construed in accordance with the **laws of Poland**, without regard to its conflict of law principles. Any legal dispute or claim arising out of or relating to these Terms shall be subject to the exclusive jurisdiction of the competent courts of Poland.
 
 *If you are a consumer residing in the European Union or United Kingdom, you may also benefit from mandatory provisions of the law of the country in which you are resident.*
 
 ---
 
-### 12. Termination
+### 13. Termination
 The Developer reserves the right to terminate or suspend your license to use the App immediately, without prior notice, if you breach any provision of these Terms. Upon termination, you must cease all use of the App and delete all copies installed on your devices.
 
 ---
 
-### 13. Updates and Changes to Terms
+### 14. Updates and Changes to Terms
 The Developer reserves the right to modify, suspend, or discontinue any feature of the App at any time. We may also update these Terms periodically. Continued use of the App following the posting of updated Terms constitutes your acceptance of those changes.
 
 ---
 
-### 14. Contact Us
+### 15. Contact Us
 If you have any questions or concerns regarding these Terms of Service, please contact us at:
 
 **Developer:** Tomasz Rutkowski  
