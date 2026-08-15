@@ -6,7 +6,7 @@
 ---
 
 ### 1. Aceitação dos Termos
-Ao baixar, instalar ou usar o **Chess M8** ("o Aplicativo"), você concorda em cumprir estes Termos de Serviço ("Termos"). Se você não concordar com estes Termos, não instale nem use o Aplicativo.
+Ao baixar, instalar ou usar o **ChessM8** ("o Aplicativo"), você concorda em cumprir estes Termos de Serviço ("Termos"). Se você não concordar com estes Termos, não instale nem use o Aplicativo.
 
 ---
 
