@@ -2,7 +2,7 @@
 
 **Inkrafttreten:** 07.08.2026  
 **Verantwortlicher:** Tomasz Rutkowski, eine Einzelperson mit Sitz in Polen, die die App "Chess M8" als unabhängiger Entwickler betreibt.  
-**Name der App:** Chess M8  
+**Name der App:** ChessM8  
 
 ---
 
