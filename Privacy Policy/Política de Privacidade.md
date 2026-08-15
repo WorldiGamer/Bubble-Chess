@@ -2,12 +2,12 @@
 
 **Data de Vigência:** 07.08.2026  
 **Controlador de Dados:** Tomasz Rutkowski, pessoa física com residência na Polônia, desenvolvedor independente do aplicativo "Chess M8".  
-**Nome do Aplicativo:** Chess M8
+**Nome do Aplicativo:** ChessM8
 
 ---
 
 ## 1. Introdução
-Respeitamos sua privacidade. Esta Política de Privacidade explica como o Chess M8 (o "Aplicativo") coleta, usa e protege informações. Ao usar o Aplicativo, você concorda com os termos desta política.
+Respeitamos sua privacidade. Esta Política de Privacidade explica como o ChessM8 (o "Aplicativo") coleta, usa e protege informações. Ao usar o Aplicativo, você concorda com os termos desta política.
 
 ---
 
