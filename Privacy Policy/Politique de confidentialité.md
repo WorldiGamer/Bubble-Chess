@@ -2,12 +2,12 @@
 
 **Date d'entrée en vigueur :** 07.08.2026  
 **Responsable du traitement :** Tomasz Rutkowski, personne physique basée en Pologne, exploitant l'application « Chess M8 » en qualité de développeur indépendant.  
-**Nom de l'application :** Chess M8  
+**Nom de l'application :** ChessM8  
 
 ---
 
 ## 1. Introduction
-Nous respectons votre vie privée. La présente Politique de confidentialité explique comment l'application Chess M8 (l'« Application ») collecte, utilise et protège vos informations. En utilisant l'Application, vous acceptez les termes de la présente politique.
+Nous respectons votre vie privée. La présente Politique de confidentialité explique comment l'application ChessM8 (l'« Application ») collecte, utilise et protège vos informations. En utilisant l'Application, vous acceptez les termes de la présente politique.
 
 ---
 
