@@ -6,7 +6,7 @@
 ---
 
 ### 1. Acceptation des conditions
-En téléchargeant, installant ou utilisant **Chess M8** (l'« Application »), vous acceptez d'être lié par les présentes Conditions d'utilisation (« Conditions »). Si vous n'acceptez pas ces Conditions, n'installez pas et n'utilisez pas l'Application.
+En téléchargeant, installant ou utilisant **ChessM8** (l'« Application »), vous acceptez d'être lié par les présentes Conditions d'utilisation (« Conditions »). Si vous n'acceptez pas ces Conditions, n'installez pas et n'utilisez pas l'Application.
 
 ---
 
