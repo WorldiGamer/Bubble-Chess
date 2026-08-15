@@ -2,12 +2,12 @@
 
 **Effective Date:** 07.08.2026  
 **Data Controller:** Tomasz Rutkowski, an individual based in Poland, operating the App "Chess M8" as an independent developer.  
-**App Name:** Chess M8  
+**App Name:** ChessM8  
 
 ---
 
 ## 1. Introduction
-We respect your privacy. This Privacy Policy explains how Chess M8 (the "App") collects, uses, and safeguards information. By using the App, you agree to the terms of this policy.
+We respect your privacy. This Privacy Policy explains how ChessM8 (the "App") collects, uses, and safeguards information. By using the App, you agree to the terms of this policy.
 
 ---
 
