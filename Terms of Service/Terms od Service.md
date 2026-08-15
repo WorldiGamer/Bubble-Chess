@@ -6,7 +6,7 @@
 ---
 
 ### 1. Agreement to Terms
-By downloading, installing, or using **Chess M8** ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not install or use the App.
+By downloading, installing, or using **ChessM8** ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not install or use the App.
 
 ---
 
