@@ -6,7 +6,7 @@
 ---
 
 ### 1. Zustimmung zu den Bedingungen
-Durch das Herunterladen, Installieren oder Nutzen von **Chess M8** („die App“) erklären Sie sich mit diesen Nutzungsbedingungen („Bedingungen“) einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, installieren oder nutzen Sie die App bitte nicht.
+Durch das Herunterladen, Installieren oder Nutzen von **ChessM8** („die App“) erklären Sie sich mit diesen Nutzungsbedingungen („Bedingungen“) einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, installieren oder nutzen Sie die App bitte nicht.
 
 ---
 
