@@ -7,7 +7,7 @@
 ---
 
 ## 1. Einleitung
-Wir respektieren Ihre Privatsphäre. Diese Datenschutzerklärung erläutert, wie Chess M8 (die „App“) Informationen erhebt, nutzt und schützt. Durch die Nutzung der App stimmen Sie den Bedingungen dieser Datenschutzerklärung zu.
+Wir respektieren Ihre Privatsphäre. Diese Datenschutzerklärung erläutert, wie ChessM8 (die „App“) Informationen erhebt, nutzt und schützt. Durch die Nutzung der App stimmen Sie den Bedingungen dieser Datenschutzerklärung zu.
 
 ---
 
