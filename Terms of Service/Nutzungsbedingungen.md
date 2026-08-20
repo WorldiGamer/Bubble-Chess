@@ -98,5 +98,5 @@ Der Entwickler behält sich das Recht vor, Funktionen der App jederzeit zu ände
 ### 15. Kontakt
 Wenn Sie Fragen oder Bedenken bezüglich dieser Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter:
 
-**Entwickler:** Tomasz Rutkowski  
+**Entwickler:** WorldiPL@protonmail.com
 **E-Mail:** wottomekr@gmail.com
