@@ -138,5 +138,5 @@ Wenn wir wesentliche Änderungen an der Art und Weise vornehmen, wie wir Ihre Da
 ## 13. Kontakt
 Bei Fragen zum Datenschutz oder zur Ausübung Ihrer Datenrechte wenden Sie sich bitte an den Verantwortlichen:
 
-**E-Mail:** wottomekr@gmail.com  
+**E-Mail:** WorldiPL@protonmail.com  
 *Die vollständige Postanschrift und weitere Identifikationsangaben sind auf schriftliche Anfrage gemäß Art. 13 DSGVO erhältlich.*
