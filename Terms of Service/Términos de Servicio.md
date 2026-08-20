@@ -99,4 +99,4 @@ El Desarrollador se reserva el derecho de modificar, suspender o discontinuar cu
 Si tiene alguna pregunta o inquietud con respecto a estos Términos de Servicio, contáctenos en:
 
 **Desarrollador:** Tomasz Rutkowski  
-**Correo electrónico:** wottomekr@gmail.com
+**Correo electrónico:** WorldiPL@protonmail.com
