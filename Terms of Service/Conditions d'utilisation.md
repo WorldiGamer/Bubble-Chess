@@ -99,4 +99,4 @@ Le Développeur se réserve le droit de modifier, suspendre ou interrompre toute
 Si vous avez des questions ou des préoccupations concernant ces Conditions d'Utilisation, veuillez nous contacter à l'adresse suivante :
 
 **Développeur :** Tomasz Rutkowski  
-**E-mail :** wottomekr@gmail.com
+**E-mail :** WorldiPL@protonmail.com
