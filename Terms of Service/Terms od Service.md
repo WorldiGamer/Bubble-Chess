@@ -99,4 +99,4 @@ The Developer reserves the right to modify, suspend, or discontinue any feature 
 If you have any questions or concerns regarding these Terms of Service, please contact us at:
 
 **Developer:** Tomasz Rutkowski  
-**Email:** wottomekr@gmail.com
+**Email:** WorldiPL@protonmail.com
