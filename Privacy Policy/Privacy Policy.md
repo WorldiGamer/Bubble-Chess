@@ -138,5 +138,5 @@ If we make material changes to the way we process your data (e.g., moving away f
 ## 13. Contact Us
 For any privacy-related questions or to exercise your data rights, please contact the Data Controller:
 
-**Email:** wottomekr@gmail.com
+**Email:** WorldiPL@protonmail.com
 *Full postal address and additional identification details are available upon written request in accordance with Article 13 GDPR.*
