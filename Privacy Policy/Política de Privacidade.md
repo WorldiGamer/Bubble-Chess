@@ -138,5 +138,5 @@ Se fizermos alterações materiais na forma como processamos seus dados (por exe
 ## 13. Contate-nos
 Para quaisquer questões relacionadas à privacidade ou para exercer seus direitos de dados, entre em contato com o Controlador de Dados:
 
-**Email:** wottomekr@gmail.com
+**Email:** WorldiPL@protonmail.com
 *Endereço postal completo e detalhes adicionais de identificação estão disponíveis mediante solicitação por escrito em conformidade com o Artigo 13 do GDPR.*
