@@ -138,5 +138,5 @@ Si nous apportons des modifications substantielles à la manière dont nous trai
 ## 13. Nous contacter
 Pour toute question relative à la confidentialité ou pour exercer vos droits sur vos données, veuillez contacter le responsable du traitement :
 
-**E-mail :** wottomekr@gmail.com
+**E-mail :** WorldiPL@protonmail.com
 *L'adresse postale complète et d'autres détails d'identification sont disponibles sur demande écrite, conformément à l'article 13 du RGPD.*
