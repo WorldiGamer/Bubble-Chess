@@ -1,6 +1,6 @@
 # Credits and Licenses
 
-## 🎨 Icons
+## Icons
 This project uses icons downloaded from [Flaticon](https://www.flaticon.com/). In accordance with the Flaticon license for free users, attribution is provided below.
 
 <details>
@@ -24,7 +24,7 @@ This project uses icons downloaded from [Flaticon](https://www.flaticon.com/). I
 
 ---
 
-## ⚙️ Open Source Software
+## Open Source Software
 This project makes use of the following open-source repositories, both distributed under the **MIT License**:
 
 ### 1. Maia Chess (Maia2)
