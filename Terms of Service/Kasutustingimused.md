@@ -95,7 +95,12 @@ Arendaja jätab endale õiguse igal ajal muuta, peatada või lõpetada Rakenduse
 
 ---
 
-### 15. Kontakt
+### 16. Tagasimakse tingimused
+Klienditoe ametlik keel on inglise keel (USA), raha tagastamise pileteid töötleme teistes keeltes, kuid neid töödeldakse tehisintellekti tõlkesüsteemide abiga. Tagame, et automaattõlked ei mõjuta negatiivselt tagastatavate piletite hindamist ja saavad sama prioriteedi kui ingliskeelsed piletid.
+
+---
+
+### 17. Kontakt
 Kui teil on käesolevate Kasutustingimuste kohta küsimusi või muresid, võtke meiega ühendust:
 
 **Arendaja:** Tomasz Rutkowski  

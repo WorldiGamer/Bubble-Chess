@@ -95,7 +95,12 @@ A Fejlesztő fenntartja a jogot, hogy az Alkalmazás bármely funkcióját bárm
 
 ---
 
-### 15. Kapcsolat
+### 16. Visszatérítési feltételek
+Az ügyfélszolgálat hivatalos nyelve az angol (USA), a visszatérítési jegyeket más nyelveken is feldolgozzuk, de ezek feldolgozása AI fordítórendszerek segítségével történik. Biztosítjuk, hogy az automatizált fordítások ne legyenek negatív hatással a visszatérített jegyek értékelésére, és ugyanolyan prioritást élvezzenek, mint az angol jegyek.
+
+---
+
+### 17. Kapcsolat
 Ha bármilyen kérdése vagy észrevétele van a jelen Szolgáltatási feltételekkel kapcsolatban, kérjük, vegye fel velünk a kapcsolatot:
 
 **Fejlesztő:** Tomasz Rutkowski  

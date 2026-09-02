@@ -95,7 +95,12 @@ Izstrādātājs patur tiesības jebkurā laikā mainīt, apturēt vai pārtraukt
 
 ---
 
-### 15. Kontakti
+### 16. Atmaksas nosacījumi
+Klientu atbalsta oficiālā valoda ir angļu (ASV), mēs apstrādājam atmaksas biļetes citās valodās, taču tās tiks apstrādātas ar AI tulkošanas sistēmu palīdzību. Mēs nodrošinām, ka automatizētie tulkojumi negatīvi neietekmēs biļešu atmaksas novērtēšanu un saņems tādu pašu prioritāti kā biļetes angļu valodā.
+
+---
+
+### 17. Kontakti
 Ja jums ir jautājumi vai neskaidrības par šiem Pakalpojumu sniegšanas noteikumiem, lūdzu, sazinieties ar mums:
 
 **Izstrādātājs:** Tomasz Rutkowski  

@@ -95,7 +95,12 @@ Vývojář si vyhrazuje právo kdykoli upravit, pozastavit nebo ukončit jakouko
 
 ---
 
-### 15. Kontakt
+### 16. Podmínky vrácení peněz
+Oficiálním jazykem zákaznické podpory je angličtina (USA), refundační lístky zpracováváme v jiných jazycích, ale ty budou zpracovány s pomocí AI překladových systémů. Zajišťujeme, že automatizované překlady nebudou mít negativní dopad na hodnocení refundací vstupenek a budou mít stejnou prioritu jako anglické vstupenky.
+
+---
+
+### 17. Kontakt
 V případě dotazů nebo nejasností ohledně těchto Podmínek služby nás prosím kontaktujte:
 
 **Vývojář:** Tomasz Rutkowski  

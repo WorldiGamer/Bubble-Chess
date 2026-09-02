@@ -95,7 +95,12 @@ Lo Sviluppatore si riserva il diritto di modificare, sospendere o interrompere q
 
 ---
 
-### 15. Contatti
+### 16. Termini di rimborso
+La lingua ufficiale dell'assistenza clienti è l'inglese (USA), elaboriamo i biglietti di rimborso in altre lingue, ma questi verranno elaborati con l'assistenza dei sistemi di traduzione AI. Garantiamo che le traduzioni automatizzate non avranno un impatto negativo sulla valutazione dei biglietti di rimborso e riceveranno la stessa priorità dei biglietti in inglese.
+
+---
+
+### 17. Contatti
 Per qualsiasi domanda o chiarimento relativo ai presenti Termini di Servizio, si prega di contattare:
 
 **Sviluppatore:** Tomasz Rutkowski  

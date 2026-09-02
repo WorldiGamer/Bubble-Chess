@@ -95,7 +95,12 @@ Kehittäjä pidättää oikeuden muuttaa, keskeyttää tai lopettaa minkä tahan
 
 ---
 
-### 15. Yhteystiedot
+### 16. Hyvitysehdot
+Asiakastuen virallinen kieli on englanti (USA), hyvitysliput käsitellään muilla kielillä, mutta ne käsitellään tekoälykäännösjärjestelmien avulla. Varmistamme, että automaattisilla käännöksillä ei ole negatiivista vaikutusta hyvitettyjen lippujen arviointiin ja että ne saavat saman prioriteetin kuin englanninkieliset liput.
+
+---
+
+### 17. Yhteystiedot
 Jos sinulla on kysyttävää näistä Käyttöehdoista, ota meihin yhteyttä:
 
 **Kehittäjä:** Tomasz Rutkowski  

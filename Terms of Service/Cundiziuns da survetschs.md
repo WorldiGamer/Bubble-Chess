@@ -95,7 +95,12 @@ Il Sviluppader sa resalva il dretg da modifitgar, suspender u abolir mintga func
 
 ---
 
-### 15. Contact
+### 16. Termini di rimborso
+La lingua ufficiale dell'assistenza clienti è l'inglese (USA), elaboriamo i biglietti di rimborso in altre lingue, ma questi verranno elaborati con l'assistenza dei sistemi di traduzione AI. Garantiamo che le traduzioni automatizzate non avranno un impatto negativo sulla valutazione dei biglietti di rimborso e riceveranno la stessa priorità dei biglietti in inglese.
+
+---
+
+### 17. Contact
 Per dumondas u scleriments davart questas Cundiziuns da survetschs, stausch contactar:
 
 **Sviluppader:** Tomasz Rutkowski  

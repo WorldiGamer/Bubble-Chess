@@ -95,7 +95,12 @@ Der Entwickler behält sich das Recht vor, Funktionen der App jederzeit zu ände
 
 ---
 
-### 15. Kontakt
+### 16. Rückerstattungsbedingungen
+Die offizielle Sprache des Kundensupports ist Englisch (USA), wir bearbeiten Rückerstattungstickets in anderen Sprachen, diese werden jedoch mit Hilfe von KI-Übersetzungssystemen bearbeitet. Wir stellen sicher, dass automatisierte Übersetzungen keinen negativen Einfluss auf die Bewertung von Rückerstattungstickets haben und die gleiche Priorität erhalten wie englische Tickets.
+
+---
+
+### 17. Kontakt
 Wenn Sie Fragen oder Bedenken bezüglich dieser Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter:
 
 **Entwickler:** WorldiPL@protonmail.com

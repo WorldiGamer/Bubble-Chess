@@ -95,7 +95,12 @@ De Ontwikkelaar behoudt zich het recht voor om op elk gewenst moment functies va
 
 ---
 
-### 15. Contact
+### 16. Voorwaarden voor terugbetaling
+De officiële taal van de klantenondersteuning is Engels (VS). We verwerken restitutietickets in andere talen, maar deze worden verwerkt met de hulp van AI-vertaalsystemen. Wij zorgen ervoor dat geautomatiseerde vertalingen geen negatieve invloed hebben op de beoordeling van restitutietickets en dezelfde prioriteit krijgen als Engelse tickets.
+
+---
+
+### 17. Contact
 Voor vragen of opmerkingen over deze Servicevoorwaarden kunt u contact opnemen met:
 
 **Ontwikkelaar:** Tomasz Rutkowski  

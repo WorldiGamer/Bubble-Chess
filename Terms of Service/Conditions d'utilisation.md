@@ -95,7 +95,12 @@ Le Développeur se réserve le droit de modifier, suspendre ou interrompre toute
 
 ---
 
-### 15. Nous Contacter
+### 16. Conditions de remboursement
+La langue officielle du support client est l'anglais (États-Unis), nous traitons les tickets de remboursement dans d'autres langues, mais ceux-ci seront traités avec l'aide de systèmes de traduction IA. Nous garantissons que les traductions automatiques n’auront pas d’impact négatif sur l’évaluation des billets remboursés et recevront la même priorité que les billets anglais.
+
+---
+
+### 17. Nous Contacter
 Si vous avez des questions ou des préoccupations concernant ces Conditions d'Utilisation, veuillez nous contacter à l'adresse suivante :
 
 **Développeur :** Tomasz Rutkowski  

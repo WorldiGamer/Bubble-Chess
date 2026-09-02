@@ -95,7 +95,12 @@ L-Iżviluppatur jirriżerva d-dritt li jimmodifika, jissospendi jew iwaqqaf kwal
 
 ---
 
-### 15. Kuntatt
+### 16. Tagasimakse tingimused
+Klienditoe ametlik keel on inglise keel (USA), raha tagastamise pileteid töötleme teistes keeltes, kuid neid töödeldakse tehisintellekti tõlkesüsteemide abiga. Tagame, et automaattõlked ei mõjuta negatiivselt tagastatavate piletite hindamist ja saavad sama prioriteedi kui ingliskeelsed piletid.
+
+---
+
+### 17. Kuntatt
 Għal mistoqsijiet jew kjarifiki dwar dawn it-Termini tas-Servizz, jekk jogħġbok ikkuntattjana:
 
 **Iżviluppatur:** Tomasz Rutkowski  

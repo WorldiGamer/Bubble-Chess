@@ -95,7 +95,12 @@ Kei te Kaihanga te mana ki te huri, te whakatārewa, te muku rānei i tētahi ā
 
 ---
 
-### 15. Whakapā mai
+### 16. Ketentuan pengembalian dana
+Bahasa resmi dukungan pelanggan adalah Bahasa Inggris (AS), kami memproses pengembalian dana tiket dalam bahasa lain, namun ini akan diproses dengan bantuan sistem terjemahan AI. Kami memastikan bahwa terjemahan otomatis tidak akan berdampak negatif pada evaluasi pengembalian dana tiket dan akan menerima prioritas yang sama seperti tiket berbahasa Inggris.
+
+---
+
+### 17. Whakapā mai
 Ki te whai pātai, kōrero rānei mō ēnei Tikanga Ratonga, me whakapā atu ki:
 
 **Kaihanga:** Tomasz Rutkowski  

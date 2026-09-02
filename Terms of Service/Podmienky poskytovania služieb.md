@@ -95,7 +95,12 @@ Vývojár si vyhradzuje právo kedykoľvek upraviť, pozastaviť alebo ukončiť
 
 ---
 
-### 15. Kontakt
+### 16. Podmienky vrátenia peňazí
+Oficiálnym jazykom zákazníckej podpory je angličtina (USA), refundačné lístky spracovávame v iných jazykoch, ale tieto budú spracované pomocou AI prekladových systémov. Zabezpečujeme, že automatizované preklady nebudú mať negatívny vplyv na vyhodnocovanie refundovaných lístkov a budú mať rovnakú prioritu ako anglické lístky.
+
+---
+
+### 17. Kontakt
 V prípade otázok alebo nejasností ohľadom týchto Podmienok poskytovania služieb nás prosím kontaktujte:
 
 **Vývojár:** Tomasz Rutkowski  

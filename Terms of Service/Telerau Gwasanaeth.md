@@ -95,7 +95,12 @@ Mae'r Datblygwr yn cadw'r hawl i addasu, atal neu ddod ag unrhyw nodwedd o'r Ap 
 
 ---
 
-### 15. Cysylltu
+### 16. Telerau ad-daliad
+Iaith swyddogol cymorth cwsmeriaid yw Saesneg (UD), rydym yn prosesu tocynnau ad-daliad mewn ieithoedd eraill, ond bydd y rhain yn cael eu prosesu gyda chymorth systemau cyfieithu AI. Rydym yn sicrhau na fydd cyfieithiadau awtomataidd yn cael effaith negyddol ar werthuso tocynnau ad-daliad a byddant yn cael yr un flaenoriaeth â thocynnau Saesneg.
+
+---
+
+### 17. Cysylltu
 Os oes gennych unrhyw gwestiynau neu sylwadau am y Telerau Gwasanaeth hyn, cysylltwch â:
 
 **Datblygwr:** Tomasz Rutkowski  

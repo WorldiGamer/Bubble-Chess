@@ -95,7 +95,12 @@ Kūrėjas pasilieka teisę bet kuriuo metu keisti, sustabdyti ar nutraukti bet k
 
 ---
 
-### 15. Kontaktai
+### 16. Pinigų grąžinimo sąlygos
+Oficiali klientų aptarnavimo kalba yra anglų (JAV), pinigų grąžinimo bilietus apdorojame kitomis kalbomis, tačiau jie bus tvarkomi pasitelkus AI vertimų sistemas. Užtikriname, kad automatizuoti vertimai neturės neigiamos įtakos grąžinamų bilietų vertinimui ir turės tokį patį prioritetą kaip ir anglų kalbos bilietai.
+
+---
+
+### 17. Kontaktai
 Kilus klausimams ar neaiškumams dėl šių Paslaugų teikimo sąlygų, prašome susisiekti:
 
 **Kūrėjas:** Tomasz Rutkowski  

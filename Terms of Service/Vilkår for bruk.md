@@ -95,7 +95,12 @@ Utvikleren forbeholder seg retten til når som helst å modifisere, suspendere e
 
 ---
 
-### 15. Kontakt
+### 16. Refusjonsvilkår
+Det offisielle språket for kundestøtte er engelsk (USA), vi behandler refusjonsbilletter på andre språk, men disse vil bli behandlet ved hjelp av AI-oversettelsessystemer. Vi sikrer at automatiserte oversettelser ikke vil ha en negativ innvirkning på evalueringen av refusjonsbilletter og vil få samme prioritet som engelske billetter.
+
+---
+
+### 17. Kontakt
 Hvis du har spørsmål eller kommentarer til disse Vilkårene for bruk, vennligst kontakt:
 
 **Utvikler:** Tomasz Rutkowski  

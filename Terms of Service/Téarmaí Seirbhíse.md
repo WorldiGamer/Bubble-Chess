@@ -95,7 +95,12 @@ Forchoimeádann an Forbróir an ceart aon ghné den Fheidhmchlár a mhodhnú, a 
 
 ---
 
-### 15. Teagmháil
+### 16. Refund terms
+The official language of customer support is English (US), we process refund tickets in other languages, but these will be processed with the assistance of AI translations systems. We ensure that automated translations will not have a negative impact on the evaluation of refund tickets and will receive the same priority as English tickets.
+
+---
+
+### 17. Teagmháil
 Má tá aon cheist nó imní ort faoi na Téarmaí Seirbhíse seo, déan teagmháil linn:
 
 **Forbróir:** Tomasz Rutkowski  

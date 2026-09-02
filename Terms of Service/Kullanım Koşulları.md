@@ -95,7 +95,12 @@ Geliştirici, Uygulamanın herhangi bir özelliğini herhangi bir zamanda deği�
 
 ---
 
-### 15. İletişim
+### 16. Geri ödeme koşulları
+Müşteri desteğinin resmi dili İngilizce'dir (ABD), geri ödeme bildirimlerini diğer dillerde işliyoruz ancak bunlar yapay zeka çeviri sistemlerinin yardımıyla işlenecektir. Otomatik çevirilerin, iade biletlerinin değerlendirilmesinde olumsuz bir etkisi olmayacağını ve İngilizce biletlerle aynı önceliğe sahip olmasını sağlıyoruz.
+
+---
+
+### 17. İletişim
 Bu Kullanım Koşulları ile ilgili soru veya talepleriniz için lütfen bizimle iletişime geçiniz:
 
 **Geliştirici:** Tomasz Rutkowski  

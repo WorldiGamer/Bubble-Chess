@@ -95,7 +95,12 @@ Den Entwéckler behält sech d'Recht vir, all Funktioun vun der Applikatioun zu 
 
 ---
 
-### 15. Kontakt
+### 16. Rückerstattungsbedingungen
+Die offizielle Sprache des Kundensupports ist Englisch (USA), wir bearbeiten Rückerstattungstickets in anderen Sprachen, diese werden jedoch mit Hilfe von KI-Übersetzungssystemen bearbeitet. Wir stellen sicher, dass automatisierte Übersetzungen keinen negativen Einfluss auf die Bewertung von Rückerstattungstickets haben und die gleiche Priorität erhalten wie englische Tickets.
+
+---
+
+### 17. Kontakt
 Wann Dir Froen oder Bedenken zu dësen Notzungsbedéngungen hutt, kontaktéiert eis w.e.g.:
 
 **Entwéckler:** Tomasz Rutkowski  

@@ -95,7 +95,12 @@ Razvojni programer zadržava pravo izmijeniti, suspendirati ili ukinuti bilo koj
 
 ---
 
-### 15. Kontakt
+### 16. Uvjeti povrata novca
+Službeni jezik korisničke podrške je engleski (SAD), povratne karte obrađujemo na drugim jezicima, ali oni će biti obrađeni uz pomoć AI sustava za prevođenje. Osiguravamo da automatizirani prijevodi neće imati negativan utjecaj na ocjenu ulaznica za povrat novca i da će imati isti prioritet kao karte na engleskom jeziku.
+
+---
+
+### 17. Kontakt
 U slučaju pitanja ili nedoumica u vezi s ovim Uvjetima pružanja usluge, obratite nam se:
 
 **Razvojni programer:** Tomasz Rutkowski  

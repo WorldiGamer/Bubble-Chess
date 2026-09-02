@@ -95,7 +95,12 @@ Razvijalec si pridržuje pravico, da kadar koli spremeni, začasno ustavi ali uk
 
 ---
 
-### 15. Stik
+### 16. Pogoji vračila
+Uradni jezik podpore strankam je angleščina (ZDA), vstopnice za vračilo denarja obdelujemo v drugih jezikih, vendar bodo ti obdelani s pomočjo sistemov za prevajanje AI. Zagotavljamo, da avtomatizirani prevodi ne bodo imeli negativnega vpliva na oceno vstopnic za vračilo in bodo imeli enako prednost kot vstopnice v angleščini.
+
+---
+
+### 17. Stik
 V primeru vprašanj ali nejasnosti glede teh Pogojev storitve se obrnite na nas:
 
 **Razvijalec:** Tomasz Rutkowski  

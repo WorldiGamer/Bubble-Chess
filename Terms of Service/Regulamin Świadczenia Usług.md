@@ -95,7 +95,12 @@ Deweloper zastrzega sobie prawo do modyfikowania, zawieszania lub wycofywania do
 
 ---
 
-### 15. Kontakt
+### 16. Warunki zwrotu
+Oficjalnym językiem obsługi klienta jest angielski (amerykański), przetwarzamy zgłoszenia zwrotów w innych językach, ale będą one przetwarzane przy pomocy systemów tłumaczeń AI. Zapewniamy, że tłumaczenia automatyczne nie będą miały negatywnego wpływu na ocenę biletów zwrotnych i będą miały taki sam priorytet jak bilety w języku angielskim.
+
+---
+
+### 17. Kontakt
 W przypadku pytań lub wątpliwości dotyczących niniejszego Regulaminu Świadczenia Usług, prosimy o kontakt:
 
 **Deweloper:** Tomasz Rutkowski  

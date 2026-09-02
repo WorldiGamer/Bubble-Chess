@@ -95,7 +95,12 @@ Utvecklaren förbehåller sig rätten att när som helst ändra, avbryta eller a
 
 ---
 
-### 15. Kontakt
+### 16. Återbetalningsvillkor
+Kundsupportens officiella språk är engelska (USA), vi behandlar återbetalningsbiljetter på andra språk, men dessa kommer att behandlas med hjälp av AI-översättningssystem. Vi säkerställer att automatiserade översättningar inte kommer att ha en negativ inverkan på utvärderingen av återbetalningsbiljetter och kommer att få samma prioritet som engelska biljetter.
+
+---
+
+### 17. Kontakt
 För frågor eller funderingar gällande dessa Användarvillkor, vänligen kontakta:
 
 **Utvecklare:** Tomasz Rutkowski  

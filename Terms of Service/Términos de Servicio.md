@@ -95,7 +95,12 @@ El Desarrollador se reserva el derecho de modificar, suspender o discontinuar cu
 
 ---
 
-### 15. Contacto
+### 16. Condiciones de reembolso
+El idioma oficial de atención al cliente es el inglés (EE. UU.), procesamos boletos de reembolso en otros idiomas, pero se procesarán con la ayuda de sistemas de traducción de IA. Nos aseguramos de que las traducciones automáticas no tengan un impacto negativo en la evaluación de los billetes de reembolso y recibirán la misma prioridad que los billetes en inglés.
+
+---
+
+### 17. Contacto
 Si tiene alguna pregunta o inquietud con respecto a estos Términos de Servicio, contáctenos en:
 
 **Desarrollador:** Tomasz Rutkowski  

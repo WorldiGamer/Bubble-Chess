@@ -95,7 +95,12 @@ Dezvoltatorul își rezervă dreptul de a modifica, suspenda sau întrerupe oric
 
 ---
 
-### 15. Contact
+### 16. Condiții de rambursare
+Limba oficială a asistenței pentru clienți este engleza (SUA), procesăm bilete de rambursare în alte limbi, dar acestea vor fi procesate cu ajutorul sistemelor de traducere AI. Ne asigurăm că traducerile automate nu vor avea un impact negativ asupra evaluării biletelor de rambursare și vor primi aceeași prioritate ca și biletele în limba engleză.
+
+---
+
+### 17. Contact
 Dacă aveți întrebări sau nelămuriri cu privire la acești Termeni și Condiții, vă rugăm să ne contactați:
 
 **Dezvoltator:** Tomasz Rutkowski  

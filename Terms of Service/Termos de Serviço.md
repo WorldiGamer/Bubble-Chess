@@ -95,7 +95,12 @@ O Desenvolvedor reserva-se o direito de modificar, suspender ou descontinuar qua
 
 ---
 
-### 15. Contate-nos
+### 16. Termos de reembolso
+O idioma oficial do suporte ao cliente é o inglês (EUA), processamos bilhetes de reembolso em outros idiomas, mas estes serão processados ​​com a ajuda de sistemas de tradução de IA. Garantimos que as traduções automáticas não terão um impacto negativo na avaliação dos bilhetes reembolsados ​​e receberão a mesma prioridade que os bilhetes em inglês.
+
+---
+
+### 17. Contate-nos
 Se você tiver alguma dúvida ou preocupação em relação a estes Termos de Serviço, entre em contato conosco em:
 
 **Desenvolvedor:** Tomasz Rutkowski  

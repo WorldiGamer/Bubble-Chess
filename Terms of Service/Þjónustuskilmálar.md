@@ -95,7 +95,12 @@ Hönnuðurinn áskilur sér rétt til að breyta, stöðva eða hætta með hva�
 
 ---
 
-### 15. Hafa samband
+### 16. Refusjonsvilkår
+Det offisielle språket for kundestøtte er engelsk (USA), vi behandler refusjonsbilletter på andre språk, men disse vil bli behandlet ved hjelp av AI-oversettelsessystemer. Vi sikrer at automatiserte oversettelser ikke vil ha en negativ innvirkning på evalueringen av refusjonsbilletter og vil få samme prioritet som engelske billetter.
+
+---
+
+### 17. Hafa samband
 Ef þú hefur spurningar eða athugasemdir varðandi þessa Þjónustuskilmála, vinsamlegast hafðu samband við okkur:
 
 **Hönnuður:** Tomasz Rutkowski  
