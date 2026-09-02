@@ -95,7 +95,12 @@ The Developer reserves the right to modify, suspend, or discontinue any feature 
 
 ---
 
-### 15. Contact Us
+### 16. Refund terms
+The official language of customer support is English (US), we process refund tickets in other languages, but these will be processed with the assistabce of AI translations systems. We ensure that automated translations will not have a negative impact on the evaluation of refund tickets and will receive the same priority as English tickets.
+
+---
+
+### 17. Contact Us
 If you have any questions or concerns regarding these Terms of Service, please contact us at:
 
 **Developer:** Tomasz Rutkowski  
